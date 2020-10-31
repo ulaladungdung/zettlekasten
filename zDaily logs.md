@@ -13,3 +13,9 @@ with mellow voice actors
 and mellow musics
 
 
+## Side gigs
+![[Pasted image 20201031200129.png]]
+can ask here for  money 
+high chance on automation
+
+

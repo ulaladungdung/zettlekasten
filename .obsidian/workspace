@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20201031Saturday1916 Ali Abdal YouTubers.md",
+            "file": "zDaily logs.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20201031Saturday1916 Ali Abdal YouTubers.md"
+                "file": "zDaily logs.md"
               }
             }
           }
@@ -89,6 +89,8 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "zDaily logs.md",
+    "Pasted image 20201031200129.png",
     "20201031Saturday1916.md",
     "Learn like a machine.md",
     "Untitled.md",
@@ -96,8 +98,6 @@
     "20201031Saturday1723.md",
     "20201031Saturday1615 zettlekasten task scheduler windows.md",
     "20201031Saturday1615.md",
-    "zDaily logs.md",
-    "Todo.md",
-    "Template.md"
+    "Todo.md"
   ]
 }
