@@ -1,3 +1,5 @@
+cd C:\Users\ulala\Projects\zett
+
 $d=Get-Date -Format "yyyyMMddddddHHmm"
 
 git pull
