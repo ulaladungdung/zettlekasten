@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zDaily logs.md",
+            "file": "20201031Saturday1615 zettlekasten task scheduler windows.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zDaily logs.md"
+                "file": "20201031Saturday1615 zettlekasten task scheduler windows.md"
               }
             }
           }
@@ -89,15 +89,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "20201031Saturday1615.md",
     "zDaily logs.md",
     "Todo.md",
     "Template.md",
-    "Untitled.md",
     "Skilio (DHS) requirement.md",
     "Sendgrid.md",
     "20201030Friday1403.md",
     "Procurement.md",
-    "20201030Friday1402.md",
-    "20201028Wednesday1207.md"
+    "20201030Friday1402.md"
   ]
 }
