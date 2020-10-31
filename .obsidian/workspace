@@ -10,10 +10,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20201031Saturday1615 zettlekasten task scheduler windows.md",
+            "file": "Learn like a machine.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "20c3ae0bcaa08ebc"
+      },
+      {
+        "id": "96c1833fe35072ca",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Learn like a machine.md",
+            "mode": "preview"
+          }
+        },
+        "group": "20c3ae0bcaa08ebc"
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20201031Saturday1615 zettlekasten task scheduler windows.md"
+                "file": "Learn like a machine.md"
               }
             }
           }
@@ -90,14 +103,14 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
+    "20201031Saturday1723 L2 Express on Cloud function.md",
+    "20201031Saturday1723.md",
+    "20201031Saturday1615 zettlekasten task scheduler windows.md",
     "20201031Saturday1615.md",
     "zDaily logs.md",
     "Todo.md",
     "Template.md",
     "Skilio (DHS) requirement.md",
-    "Sendgrid.md",
-    "20201030Friday1403.md",
-    "Procurement.md",
-    "20201030Friday1402.md"
+    "Sendgrid.md"
   ]
 }
