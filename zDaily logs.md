@@ -27,6 +27,6 @@ high chance on automation
 5.	No. of urgent purchases (Need by date shorter than prescribed timeline) ==> we saw this data before
 
 1.	Procurement Staff Workload: Number of RFQs (i.e. ITT and ITQ) handled by each  Procurement staff ==> RTP/RFQ per staff name
-2.	Average turnaround time to complete ITQ and ITT (based on each stage of Procurement, e.g. Average time to approve the Award  Recommendation, from time of receipt of Award Recommendation))
+2.	Average turnaround time to complete ITQ and ITT (based on each stage of Procurement, e.g. Average time to approve the Award  Recommendation, from time of receipt of Award Recommendation)) ==> check all the award recommendation stuff
 3.	Late payments (should take into account the date that users complete the GR) ==> GR *pending*
-4.	No. of PO closure not done in timely manner and unused PO funds not release for other use
+4.	No. of PO closure not done in timely manner and unused PO funds not release for other use ==> PO pending
