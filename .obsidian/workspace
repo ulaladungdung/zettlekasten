@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "9986969f7a806c2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3422b2fef3cb4718",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "zDaily logs.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10e650ad5eda946e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8edec04e887a3b59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f520f11fb6e97c17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c16961526d9cc969",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4bd8779e81c2ac0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e2619c3ca41d531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26c457b722aff64b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "2a3c2ba19bc9b154",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2739275bc30515d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "zDaily logs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "zDaily logs.md",
+    "Todo.md",
+    "Template.md",
+    "Untitled.md",
+    "Skilio (DHS) requirement.md",
+    "Sendgrid.md",
+    "20201030Friday1403.md",
+    "Procurement.md",
+    "20201030Friday1402.md",
+    "20201028Wednesday1207.md"
+  ]
+}
