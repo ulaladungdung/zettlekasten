@@ -32,11 +32,12 @@ high chance on automation
 5.	No. of urgent purchases (Need by date shorter than prescribed timeline) ==> we saw this data before
 
 1.	Procurement Staff Workload: Number of RFQs (i.e. ITT and ITQ) handled by each  Procurement staff ==> RTP/RFQ per staff name
-2.	Average turnaround time to complete ITQ and ITT (based on each stage of Procurement, e.g. Average time to approve the Award  Recommendation, from time of receipt of Award Recommendation)) ==> check all the award recommendation stuff
+2.	Average turnaround time to complete ITQ and ITT (based on each stage of Procurement, e.g. Average time to approve the Award  Recommendation, from time of receipt of Award Recommendation)) ==> check all the award recommendation stuff ==> 
 3.	Late payments (should take into account the date that users complete the GR) ==> GR *pending*
 4.	No. of PO closure not done in timely manner and unused PO funds not release for other use ==> PO pending
 
 **questions**:
 1. Where can we see the tendors' information for ITQ and ITT?
 2. What is the difference between Award Recommendation base item vs option item?
-3. For EPV vs APV, we only have 2 matching Id, may we make change some of tweak some of the Ids so that they are matching?
+3. For EPV vs APV, we only have 2 matching Id, we would generate some artificial data for the purpose of the visualization
+4. May we know why the *created datetime* of award recommendation is later than its *created on and offer received datetime* ?
