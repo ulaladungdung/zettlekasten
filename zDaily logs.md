@@ -22,6 +22,9 @@ high chance on automation
 ## DBA
 1. Show profile of decentralise and centralise purchases (i.e. Small value purchases, 3 quotes, ITQ and ITT, Limited ITQ/ITT, WOC) ==> Done
 2.	Internal Customer satisfaction based on the feedback ==> Award Recommendation Purchase Experience
+	1.	 Q1 rate the users' level of knowledge
+	2.	 Q2 Rate the engagement time
+	3.	 Q5 not needed (anything else question)
 3.	How many ITQ/ITT comes with at least 3 responses and 0 response ==> RTP/RFQ
 4.	EPV vs APV (Track Reliability of Estimation) ==> (RTP, Award Recommendation, Award Recommendation Base Items, Award Recommendation Option Items)
 5.	No. of urgent purchases (Need by date shorter than prescribed timeline) ==> we saw this data before
