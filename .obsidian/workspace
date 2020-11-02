@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zDaily logs.md",
+            "file": "zPiazza ideas.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zDaily logs.md"
+                "file": "zPiazza ideas.md"
               }
             }
           }
@@ -89,11 +89,11 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "zDaily logs.md",
     "Pasted image 20201031200129.png",
     "20201031Saturday1916.md",
     "Learn like a machine.md",
-    "Untitled.md",
     "20201031Saturday1723 L2 Express on Cloud function.md",
     "20201031Saturday1723.md",
     "20201031Saturday1615 zettlekasten task scheduler windows.md",
