@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3422b2fef3cb4718",
+        "id": "2778817de1136697",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zPiazza ideas.md",
+            "file": "zManagerialFinance.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zPiazza ideas.md"
+                "file": "zManagerialFinance.md"
               }
             }
           }
@@ -90,14 +90,14 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
+    "Todo.md",
+    "Template.md",
+    "zExecutive summary lecture.md",
     "zDaily logs.md",
+    "zPiazza ideas.md",
     "Pasted image 20201031200129.png",
     "20201031Saturday1916.md",
     "Learn like a machine.md",
-    "20201031Saturday1723 L2 Express on Cloud function.md",
-    "20201031Saturday1723.md",
-    "20201031Saturday1615 zettlekasten task scheduler windows.md",
-    "20201031Saturday1615.md",
-    "Todo.md"
+    "20201031Saturday1723 L2 Express on Cloud function.md"
   ]
 }
