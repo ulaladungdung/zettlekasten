@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2778817de1136697",
+        "id": "482de8ce20d5ca42",
         "type": "leaf",
         "active": true,
         "state": {
@@ -89,6 +89,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "zManagerialFinance.md",
     "Untitled.md",
     "Todo.md",
     "Template.md",
@@ -97,7 +98,6 @@
     "zPiazza ideas.md",
     "Pasted image 20201031200129.png",
     "20201031Saturday1916.md",
-    "Learn like a machine.md",
-    "20201031Saturday1723 L2 Express on Cloud function.md"
+    "Learn like a machine.md"
   ]
 }
