@@ -6,3 +6,6 @@
 3. Do documentation for GitLab
 4. join activity bug ==> When a user join an activity, all the user's data is being put under the member entitiy.
 5. Join organization bug ==> cannot join org
+
+
+6. add feedback on the way
