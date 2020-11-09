@@ -12,9 +12,3 @@
 8. Spider graph: compare freq of ss / no. of reflection of datapoints
 
 For personal, call it skills insight instead of impact report.
-
-Why have the visual arts presented a harder problem for stylometry than text has?
-
-We are not able to count the frequency of some discrete entities in visual arts unlike how we are able to count the frequency of a word in a corpus in textual data.
-However, like how we can differentiate authors in a body of text, we are also to the same "stylelometry" with visual arts, although more difficult. 
-One of the example discussed is to use wavelet analysis.
