@@ -41,3 +41,8 @@ high chance on automation
 2. What is the difference between Award Recommendation base item vs option item?
 3. For EPV vs APV, we only have 2 matching Id, we would generate some artificial data for the purpose of the visualization
 4. May we know why the *created datetime* of award recommendation is later than its *created on and offer received datetime* ?
+
+**Questions v2:**
+1. Need by date is not there for RTP
+2. The link of all of these data
+3. negative invoice amount?
