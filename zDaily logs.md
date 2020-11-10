@@ -42,7 +42,8 @@ high chance on automation
 3. For EPV vs APV, we only have 2 matching Id, we would generate some artificial data for the purpose of the visualization
 4. May we know why the *created datetime* of award recommendation is later than its *created on and offer received datetime* ?
 
-**Questions v2:**
+**Questions (11/10/2020)**
 1. Need by date is not there for RTP
-2. The link of all of these data
+2. The links for the data for example invoice, GR and RTP
 3. negative invoice amount?
+4. Where to find ITT/ITQ?
