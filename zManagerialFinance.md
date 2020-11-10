@@ -36,7 +36,7 @@ two types:
 ### Current Liability
 
 1. notes payable
-2. accounts payable
+2. accounts payable ==> negative accounts payable means that
 3. salary payable
 4. interest payable
 
@@ -94,7 +94,7 @@ statements:
 Usually per year/ quarter
 **Gross profit** -> Revenue - (marginal) Cost of Goods Sold 
 **Gross Margin** -> Gross Profit / Revenue
-**EBIT** = operating profit( earnings before intereste and taxes)
+**EBIT** = operating profit( earnings before interests and taxes)
 **EBIT Margin** -> EBIT/Revenue
 
 #### Cost Of Goods Sold: Depreciation
@@ -115,4 +115,11 @@ Everything that changes the amount in the bank
 ### Balance Sheet
 Assets = Liabilities + owners Equity
 
-### Networking Capital
+### Net working Capital
+Difference between assets and liabilities. Huge positive WC means that the company has larger current assets than its current liabilities.
+
+**Negative** working capital can happen when the company take cash upfront and pay suppliers later like how Dell has been doing it for years.
+
+## Use case
+ - positive account payable is like a cash inflow. *For example* when you buy 100 books from a supplier and the invoice is due in 1 year. Having sold the book by the first month, you do not have to payoff the suppliers. You can use the cash for more sales or other money generating stuff before paying off the supplier
+ - 

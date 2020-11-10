@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "482de8ce20d5ca42",
+        "id": "3620f02349afe053",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "zManagerialFinance.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "zManagerialFinance.md"
               }
             }
           }
@@ -89,14 +89,14 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "README.md",
     "zManagerialFinance.md",
+    "zPiazza ideas.md",
+    "README.md",
+    "zExecutive summary lecture.md",
     "Untitled.md",
     "Todo.md",
     "Template.md",
-    "zExecutive summary lecture.md",
     "zDaily logs.md",
-    "zPiazza ideas.md",
     "Pasted image 20201031200129.png",
     "20201031Saturday1916.md"
   ]
