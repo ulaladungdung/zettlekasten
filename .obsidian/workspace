@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zManagerialFinance.md",
+            "file": "Skilio JD.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zManagerialFinance.md"
+                "file": "Skilio JD.md"
               }
             }
           }
@@ -89,15 +89,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Skilio JD.md",
+    "Skilio (DHS) requirement.md",
+    "Sendgrid.md",
     "zManagerialFinance.md",
     "zPiazza ideas.md",
     "README.md",
     "zExecutive summary lecture.md",
     "Untitled.md",
     "Todo.md",
-    "Template.md",
-    "zDaily logs.md",
-    "Pasted image 20201031200129.png",
-    "20201031Saturday1916.md"
+    "Template.md"
   ]
 }
