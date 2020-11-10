@@ -120,6 +120,11 @@ Difference between assets and liabilities. Huge positive WC means that the compa
 
 **Negative** working capital can happen when the company take cash upfront and pay suppliers later like how Dell has been doing it for years.
 
+### Profitability ratios
+1. Return on Assets. (income / total assets)
+2. Return on Equity (net income / total equity)
+
 ## Use case
  - positive account payable is like a cash inflow. *For example* when you buy 100 books from a supplier and the invoice is due in 1 year. Having sold the book by the first month, you do not have to payoff the suppliers. You can use the cash for more sales or other money generating stuff before paying off the supplier
- - 
+ - High revenue with lower earnings, => the company may not be able to turn the sales captured into money
+ - borrow money increases ROE
