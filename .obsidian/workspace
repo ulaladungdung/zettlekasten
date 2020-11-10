@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skilio JD.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skilio JD.md"
+                "file": "README.md"
               }
             }
           }
@@ -89,12 +89,12 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "README.md",
     "Skilio JD.md",
     "Skilio (DHS) requirement.md",
     "Sendgrid.md",
     "zManagerialFinance.md",
     "zPiazza ideas.md",
-    "README.md",
     "zExecutive summary lecture.md",
     "Untitled.md",
     "Todo.md",
