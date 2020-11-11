@@ -42,13 +42,26 @@ high chance on automation
 3. For EPV vs APV, we only have 2 matching Id, we would generate some artificial data for the purpose of the visualization
 4. May we know why the *created datetime* of award recommendation is later than its *created on and offer received datetime* ?
 
+
 **Questions (11/10/2020)**
 1. Need by date is not there for RTP
+	1. should be at Award Recom stage.
+	2. check base items table
+	3. 
 2. The links for the data for example invoice, GR and RTP
-3. negative invoice amount?
-4. Where to find ITT/ITQ?
+3. negative invoice amount? (same **transaction number**)
+	1. means invalid due to cancellation
+	2. or can be due to computation of GST
+4. Where to find ITT/ITQ? 
+	1. Data not in yet 
+5. What is fund source and why can it be negative? 
+	1. COMPULE LATER
 
-
+Follow ups:
+1. Check on the payment date
+2. Compile the Id stuff in a table later
+	1. invoice - GR => GR number
+	2. 
 
 Feedbacks:
 1. how this shows me effectiveness?
@@ -56,8 +69,22 @@ Feedbacks:
 	2. 80-20 rule + number of total transactions => can show how my team work effectively 
 	3. from 80% can see 40% and do bulk purchases => get discount
 2. Use an icon to define all the data.
+3. late payment (finance) = payment date - invoice received date 
+4. late payment (not finance problem + finance problem) = payment date - invoice date
+5. Break down when click on it.
+6. SOP:
+	1. GL accounts code (same budget center)
+	2. vendor name
+	3. total amount exceed the threshold
+	4. Over progressive months (3, 6, 9, 12 months window)
+7. Po raised after invoice
+	1. PO date - invoice date
+	2. no PO no GR
+8. SQL put on Qlik
+9. Put the date data on the dashboardx
 
-
+invoice receive data = date when finance receive this invoice
+invoice data = the invoice date itself
 
 receive request => sourcing RFQ => award recommendation
 
