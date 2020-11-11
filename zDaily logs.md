@@ -47,3 +47,19 @@ high chance on automation
 2. The links for the data for example invoice, GR and RTP
 3. negative invoice amount?
 4. Where to find ITT/ITQ?
+
+
+
+Feedbacks:
+1. how this shows me effectiveness?
+	1. need to have an end outcome to determine effectiveness
+	2. 80-20 rule + number of total transactions => can show how my team work effectively 
+	3. from 80% can see 40% and do bulk purchases => get discount
+2. Use an icon to define all the data.
+
+
+
+receive request => sourcing RFQ => award recommendation
+
+average turnaround time:
+1. define the time. (from what activity to what activity) => so can give feedback on it.
