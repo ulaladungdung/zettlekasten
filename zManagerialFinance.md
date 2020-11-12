@@ -123,7 +123,15 @@ Difference between assets and liabilities. Huge positive WC means that the compa
 ### Profitability ratios
 1. Return on Assets. (income / total assets)
 2. Return on Equity (net income / total equity)
+3. Gross profit margin (Gross profit / sales)
+4. Net Profit margin (net income / sales)
 
+### Liquidity Ratio
+The ability to satisfy the company's short-term obligations using assets that can be most readily converted into cash
+
+1. Current ratio = current **assets** / current **liabilities**
+	shows a firm's ability to cover its current liabilities with its current assets (cash, acct. receivable, inventory)
+2. Quick ratio = (current **assets**  - inventory) / current **liabilities**
 ## Use case
  - positive account payable is like a cash inflow. *For example* when you buy 100 books from a supplier and the invoice is due in 1 year. Having sold the book by the first month, you do not have to payoff the suppliers. You can use the cash for more sales or other money generating stuff before paying off the supplier
  - High revenue with lower earnings, => the company may not be able to turn the sales captured into money
