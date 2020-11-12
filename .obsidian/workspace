@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zSOAR.md",
+            "file": "zSix.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zSOAR.md"
+                "file": "zSix.md"
               }
             }
           }
@@ -89,15 +89,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "zSix.md",
     "zSOAR.md",
+    "zPiazza ideas.md",
     "README.md",
     "Untitled.md",
     "zDaily logs.md",
     "Todo.md",
     "Skilio (DHS) requirement.md",
     "Sendgrid.md",
-    "zExecutive summary lecture.md",
-    "zManagerialFinance.md",
-    "zPiazza ideas.md"
+    "zExecutive summary lecture.md"
   ]
 }

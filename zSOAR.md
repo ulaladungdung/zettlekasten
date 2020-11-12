@@ -11,5 +11,10 @@
 - contacts
 - Let the project runs properly and nicely
 - Space:
-	- contact Kai Jie for IDer and EC
-	- 
+	- contact Kai Jie for IDer 
+	- arifin for EC
+- funding:
+	- approach prof to get UROP
+	- Lionsbot to get sponsor
+- Crystal:
+	- our contact with OSL
