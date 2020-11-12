@@ -132,7 +132,22 @@ The ability to satisfy the company's short-term obligations using assets that ca
 1. Current ratio = current **assets** / current **liabilities**
 	shows a firm's ability to cover its current liabilities with its current assets (cash, acct. receivable, inventory)
 2. Quick ratio = (current **assets**  - inventory) / current **liabilities**
+
+### Solvency ration
+1. debt-to-total assets
+2. Time interest earned -> the ability of the company to handle interest charge
+
+### Inventory Turnover
+
+### Receivable Turnover
+how good you manage your account receivable
+
+
 ## Use case
  - positive account payable is like a cash inflow. *For example* when you buy 100 books from a supplier and the invoice is due in 1 year. Having sold the book by the first month, you do not have to payoff the suppliers. You can use the cash for more sales or other money generating stuff before paying off the supplier
  - High revenue with lower earnings, => the company may not be able to turn the sales captured into money
  - borrow money increases ROE
+
+## Insights
+Differentiated goods dont mean that is very high on demand
+For market value, undifferentiated good may be more fast selling than differentiated goods.
