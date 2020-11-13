@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zManagerialFinance.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zManagerialFinance.md"
+                "file": "README.md"
               }
             }
           }
@@ -89,12 +89,12 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "README.md",
     "zManagerialFinance.md",
     "zDaily logs.md",
     "zSix.md",
     "zSOAR.md",
     "zPiazza ideas.md",
-    "README.md",
     "Untitled.md",
     "Todo.md",
     "Skilio (DHS) requirement.md",
