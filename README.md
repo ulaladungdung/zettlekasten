@@ -29,6 +29,8 @@ Question for hwee koon:
 1. How to describe urgent purchases? Is it when the created datetime of RTP + estimated delivery lead time is later than the need-by date from RTP?
 2. The Award ID doesnt link with the RTP.
 3. The Award ID from survey doesnt link with the Award ID from Award Recommendation table. May I know how we are supposed to link them then? (APV vs EPV problem)
-
-
-Count({<ProcurementMethod = {"ITT"}>} ProcurementMethod)
+4. What are the links between RTP and RFQ?
+5. What are the links between RFQ and AR?
+6. What are the links between GR and PO?
+7. What are the links between GR and Invoice?
+8. What  are the links between AR and PO?
