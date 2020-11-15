@@ -18,5 +18,11 @@ Each **value** has their own formulas
 
 
 EDITED DATA:
-1. Edited RTP (EDITED RTP) => awardID from AR_Purchase_Exp is pasted to RTP
+1. Edited RTP (EDITED RTP) 
+	1. awardID from AR_Purchase_Exp is pasted to RTP
+2. Edited Invoice 
+	1. PROJECT_ID from RTP_FUND_SOURCE to Invoice
+
+Question for hwee koon:
+1. How to describe urgent purchases? Is it when the created datetime of RTP + estimated delivery lead time is later than the need-by date from RTP?
 2. 
