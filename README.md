@@ -15,3 +15,8 @@ Procurement process:
 Request To Purchase Goods => **value** => Request for quotations from vendors => **Value** => Approval from PAA => **value** => Suppliers deliver goods => **value** => Pay invoice => **value** => end
 
 Each **value** has their own formulas 
+
+
+EDITED DATA:
+1. Edited RTP (EDITED RTP) => awardID from AR_Purchase_Exp is pasted to RTP
+2. 
