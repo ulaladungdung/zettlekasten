@@ -22,9 +22,13 @@ EDITED DATA:
 	1. awardID from AR_Purchase_Exp is pasted to RTP
 2. Edited Invoice 
 	1. PROJECT_ID from RTP_FUND_SOURCE to Invoice
+3. Edited RFQ
+	1. Added Reference no. to link the whole think for efficiency
 
 Question for hwee koon:
 1. How to describe urgent purchases? Is it when the created datetime of RTP + estimated delivery lead time is later than the need-by date from RTP?
+2. The Award ID doesnt link with the RTP.
+3. The Award ID from survey doesnt link with the Award ID from Award Recommendation table. May I know how we are supposed to link them then? (APV vs EPV problem)
 
 
 Count({<ProcurementMethod = {"ITT"}>} ProcurementMethod)
