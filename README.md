@@ -25,4 +25,6 @@ EDITED DATA:
 
 Question for hwee koon:
 1. How to describe urgent purchases? Is it when the created datetime of RTP + estimated delivery lead time is later than the need-by date from RTP?
-2. 
+
+
+Count({<ProcurementMethod = {"ITT"}>} ProcurementMethod)
