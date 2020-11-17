@@ -15,3 +15,7 @@ and mellow musics
 can ask here for  money 
 high chance on automation
 
+
+## FOR EC
+link to youtube Skillio video https://www.youtube.com/watch?v=2cnPrD_-AbA
+Need the slides

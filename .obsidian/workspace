@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "zDaily logs.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "zDaily logs.md"
               }
             }
           }
@@ -89,9 +89,9 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "zDaily logs.md",
     "README.md",
     "zManagerialFinance.md",
-    "zDaily logs.md",
     "zSix.md",
     "zSOAR.md",
     "zPiazza ideas.md",
