@@ -52,12 +52,24 @@ Need the slides
 	2. ITT/ITQ per departments
 10. Proc time efficiencies
 	1. Separate into different methods
-	2. SVP: All are moving target
-	3. 3Q:
-	4. ITT:
-	5. ITQ:
+	2. SVP: All are moving target (school average)
+	3. 3Q: All are moving target (school average)
+	4. ITT: All are moving target (school average)
+	5. ITQ: All are moving target (school average)
 	6. Dont take into account into the payment
-11. 
+11. Unused PO Fund : (unused incumbent fund)
+	1. APV (only base PO amount) - invoice amount
+	2. total of PO order - invoice_amount_paid
+	3. This is to show contract utilization
+	4. value of options un-exercised
+
+round 2
+1. Deletion -> inactive
+2. Vendor inactive -> must compare the date
+3. 
+
+
+PO <-> Award Recommendation
 
 ## nuni
 1. can click and see by departments?
