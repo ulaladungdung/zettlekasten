@@ -22,9 +22,8 @@ Need the slides
 
 
 
-
 ## FEEDBACK
-1. Show TOTAL AMOUNT of it for small value purchases
+1. Show TOTAL AMOUNT for small value purchases
 2. show that the data changes
 3. under estimate => risk of doing more lacks procurement proceure OR more complex procumrent method (takes more time)
 4. EPV / APV may not be right 
