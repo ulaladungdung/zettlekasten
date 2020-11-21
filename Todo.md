@@ -1,7 +1,8 @@
 # TODO
-1. Change the questions ASAP
-2. Show soft skill profile even though activity is not completed
 
-
+1. Help hafiz on the activity tag
+2. optimization hw
+3. probability week 10
+4. 
 
 https://myportal.sutd.edu.sg/psp/EPPRD/EMPLOYEE/HRMS/c/N_STUDENT_RECORDS.N_SUMM_PRG_SS.GBL?

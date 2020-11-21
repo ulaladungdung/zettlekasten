@@ -25,7 +25,7 @@ Need the slides
 ## FEEDBACK
 1. Show TOTAL AMOUNT for small value purchases
 2. show that the data changes
-3. under estimate => risk of doing more lacks procurement proceure OR more complex procumrent method (takes more time)
+3. under estimate => risk of doing more lacks procurement OR more complex procurement method (takes more time)
 4. EPV / APV may not be right 
 6. Urgent purchases: 
 	1. Remarks not blank => urgent purchase? Will wait for surya
