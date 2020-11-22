@@ -40,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -78,7 +83,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zDaily logs.md"
+                "file": "zDaily logs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
