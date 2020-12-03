@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Todo.md",
+            "file": "MYSQL notes.md",
             "mode": "source"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "MYSQL notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "Todo.md",
     "zDaily logs.md",
     "zManagerialFinance.md",
@@ -107,7 +108,6 @@
     "zSOAR.md",
     "zExecutive summary lecture.md",
     "Template.md",
-    "Skilio JD.md",
-    "README.md"
+    "Skilio JD.md"
   ]
 }
