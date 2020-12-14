@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MYSQL notes.md",
-            "mode": "source"
+            "file": "zManagerialFinance.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MYSQL notes.md",
+                "file": "zManagerialFinance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +101,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "zManagerialFinance.md",
+    "zExecutive summary lecture.md",
     "MYSQL notes.md",
     "Untitled.md",
     "Todo.md",
     "zDaily logs.md",
-    "zManagerialFinance.md",
     "zPiazza ideas.md",
     "zSix.md",
     "zSOAR.md",
-    "zExecutive summary lecture.md",
     "Template.md"
   ]
 }
