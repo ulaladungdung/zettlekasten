@@ -6,12 +6,23 @@
       {
         "id": "6764e586c1102d0a",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "zManagerialFinance.md",
             "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "c7d4a149eb30e574",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled 1.md",
+            "mode": "source"
           }
         }
       }
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zManagerialFinance.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +113,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.md",
     "zManagerialFinance.md",
     "zExecutive summary lecture.md",
     "MYSQL notes.md",
-    "Untitled.md",
     "Todo.md",
     "zDaily logs.md",
     "zPiazza ideas.md",
     "zSix.md",
-    "zSOAR.md",
-    "Template.md"
+    "zSOAR.md"
   ]
 }
