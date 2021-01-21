@@ -6,18 +6,18 @@
       {
         "id": "6764e586c1102d0a",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zManagerialFinance.md",
-            "mode": "preview"
+            "file": "zDaily logs.md",
+            "mode": "source"
           }
         }
       },
       {
         "id": "c7d4a149eb30e574",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "youtube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "zDaily logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +114,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "zDaily logs.md",
+    "20201031Saturday1916 Ali Abdal YouTubers.md",
+    "zManagerialFinance.md",
     "Untitled 1.md",
     "Untitled.md",
-    "zManagerialFinance.md",
     "zExecutive summary lecture.md",
     "MYSQL notes.md",
     "Todo.md",
-    "zDaily logs.md",
     "zPiazza ideas.md",
-    "zSix.md",
-    "zSOAR.md"
+    "zSix.md"
   ]
 }
