@@ -14,17 +14,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "c7d4a149eb30e574",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled 1.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -60,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,14 +103,14 @@
   },
   "lastOpenFiles": [
     "zDaily logs.md",
-    "20201031Saturday1916 Ali Abdal YouTubers.md",
-    "zManagerialFinance.md",
     "Untitled 1.md",
-    "Untitled.md",
     "zExecutive summary lecture.md",
-    "MYSQL notes.md",
-    "Todo.md",
+    "zManagerialFinance.md",
     "zPiazza ideas.md",
-    "zSix.md"
+    "zSix.md",
+    "zSOAR.md",
+    "README.md",
+    "Sendgrid.md",
+    "Template.md"
   ]
 }
