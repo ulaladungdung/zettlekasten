@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zDaily logs.md",
+            "file": "GraphQL (Resources).md",
             "mode": "source"
           }
         }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zDaily logs.md",
+                "file": "GraphQL (Resources).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "zDaily logs.md",
     "Untitled 1.md",
-    "zExecutive summary lecture.md",
-    "zManagerialFinance.md",
-    "zPiazza ideas.md",
-    "zSix.md",
-    "zSOAR.md",
-    "README.md",
+    "Untitled.md",
+    "R Language (WTF mode).md",
+    "Untitled 2.md",
     "Sendgrid.md",
-    "Template.md"
+    "today/202010131057.md",
+    "today/202010131058.md",
+    "20201031Saturday1916 Ali Abdal YouTubers.md",
+    "20201031Saturday1723 L2 Express on Cloud function.md",
+    "20201031Saturday1615 zettlekasten task scheduler windows.md"
   ]
 }

@@ -7,7 +7,7 @@ curl --request POST \
   --header 'Content-Type: application/json' \
   --data '{
   "personalizations": [{
-  	"to": [{"email":"zhihui@skilio.co"}],
+  	"to": [{"email":"tech@skilio.co"}],
     "dynamic_template_data": {
         "message":"I your feedback",
         "title":"NTU RE",
