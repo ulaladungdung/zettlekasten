@@ -1,4 +1,4 @@
-cd C:\Users\ulala\Projects\zett
+cd C:\Users\dodys\Projects\zett
 
 $d=Get-Date -Format "yyyyMMddddddHHmm"
 
