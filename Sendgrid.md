@@ -3,7 +3,7 @@ Working curl command
 ``` typescript
 curl --request POST \
   --url https://api.sendgrid.com/v3/mail/send \
-  --header "Authorization: Bearer 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" \
+  --header "Authorization: Bearer <SENDGRID API SECRET KEY>" \
   --header 'Content-Type: application/json' \
   --data '{
   "personalizations": [{
