@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GraphQL (Resources).md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphQL (Resources).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Untitled.md",
-    "R Language (WTF mode).md",
-    "Untitled 2.md",
+    "README.md",
     "Sendgrid.md",
-    "today/202010131057.md",
-    "today/202010131058.md",
+    "Skilio (DHS) requirement.md",
+    "Skilio JD.md",
+    "Template.md",
+    "Todo.md",
+    "Untitled.md",
+    "GraphQL (Resources).md",
     "20201031Saturday1916 Ali Abdal YouTubers.md",
-    "20201031Saturday1723 L2 Express on Cloud function.md",
-    "20201031Saturday1615 zettlekasten task scheduler windows.md"
+    "R Language (WTF mode).md"
   ]
 }
