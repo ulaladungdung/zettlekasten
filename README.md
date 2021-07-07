@@ -1,3 +1,2 @@
 # zettlekasten
-
-Git testing
+## Inbox
