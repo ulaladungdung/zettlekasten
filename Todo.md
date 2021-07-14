@@ -8,3 +8,8 @@ https://material.io/resources/color/#!/?view.left=0&view.right=1&primary.color=1
 
 https://medium.com/swlh/design-system-based-on-the-8pt-grid-2473ca5f0ae1 (not compulsory to learn everything just to see how to make a great design)
 
+
+
+
+1. ask team if they need a snackbar for every transaction. 
+2. https://material.io/components/snackbars#anatomy | snackbar when share link
